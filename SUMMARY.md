@@ -11,3 +11,8 @@
 ***
 
 * [Follow up Training](follow-up-training.md)
+
+## Department Structures
+
+* [Organizational Structure](department-structures/organizational-structure.md)
+* [Uniform Structure](department-structures/uniform-structure.md)
