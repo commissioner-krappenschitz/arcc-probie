@@ -8,11 +8,8 @@
 * [Question or problem?](articles/question-or-problem.md)
 * [Probationary Status](articles/probationary-status.md)
 
-***
-
-* [Follow up Training](follow-up-training.md)
-
 ## Department Structures
 
 * [Organizational Structure](department-structures/organizational-structure.md)
 * [Uniform Structure](department-structures/uniform-structure.md)
+* [Follow up Training](department-structures/follow-up-training.md)
